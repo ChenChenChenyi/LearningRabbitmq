@@ -1,2 +1,3 @@
-# LearningRabbitmq
-学习rabbitmq的笔记
+# 学习rabbitmq的笔记
+## 2021-08-08
+
